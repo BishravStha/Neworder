@@ -16,7 +16,7 @@ const Home = ({ navigation }) => {
     // Dummy Datas
 
     const initialCurrentLocation = {
-        streetName: "Kuching",
+        streetName: "FOODIE",
         gps: {
             latitude: 1.5496614931250685,
             longitude: 110.36381866919922
